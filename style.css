@@ -1,0 +1,14 @@
+body {
+    background-color: #000;
+    color: #0f0; /* Verde clássico de terminal */
+    font-family: 'Courier New', Courier, monospace; /* Fonte monoespaçada */
+    padding: 20px;
+}
+a {
+    color: #0f0;
+    text-decoration: none;
+}
+a:hover {
+    background-color: #0f0;
+    color: #000;
+}
